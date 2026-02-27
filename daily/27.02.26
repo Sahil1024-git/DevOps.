@@ -1,0 +1,35 @@
+Linux started in 1964 in Bell laboratories in New Jersey.
+
+they worked for 4 to 5 years and the dropped  this idea, then 2 people in 1969 Dennis Ritchie and Ken Thompson started to work on this operation again. This was earlier  names as UNICS. which meant uniplexed information and computing services, which was free for all, the source code was available to all,
+
+then in 1975 a new version came which was UNIX v6 .
+
+these companies made their own versions of UNIX.
+
+IBM made its own version name as IBM-AIX.
+
+Sun Microsystems made SUN Solaris.
+
+Apple made MAC OS.
+
+HP made UX.
+
+then came LINUX.
+
+IT IS CONSIDERED AS UNIX IS THE PARENT ON LINUX BUT THIS IS NOT TRUE.
+
+A student named as Linus Torvald, had to work on a project in 1991 sop he needed a operating system , but he was charged approximately 5000 dollars at that time, then this guy made his own code from scratch, but he used UNIX for this work.
+
+Then he made LINUX and then made it free for all, which went popular also, at that time there was a movement named as **free software movement, this was also named as GNU.**
+
+   LINUX + GNU → OS
+
+    kernel    **GNU** provides the rest of the the tools and interface
+
+***why do we actually need Linux?***
+
+as you know that when one uses windows their is a license, and employees specially in a company need to pay for that license on yearly basis, but when we see Linux at first it is absolutely free, their is a tons of options available to use ,according to ones use. That is why most of the companies uses Linux.
+
+Anyone can change the main code of the Linux as it is open source according to their need and too for free, and can make their own Linux kernel based operating system.
+
+Linux is more secure than windows also, whenever a virus enters in windows, it spreads into every file and folder gradually making our system slow, but in Linux if for any reason a virus enters a folder it is unable to spread it will not at all spread it will remain in that particular folder only. No antivirus is needed in Linux. The reason why Linux don’t get attacked by hackers is that is full of commands and is not easy to learn and hack.
